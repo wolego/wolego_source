@@ -1,16 +1,16 @@
-# hexo-theme-raytaylorism v2
+# ray
 
-raytaylorism（Ray Taylor主义）是我自己设计并制作的一款清新的的响应式Material Design风格的[Hexo]主题。该主题支持最新的Hexo 3.1版本。**本主题不再支持Hexo 2.x版本，请使用本主题前备份你的数据并升级到Hexo 3。**
+原作者：raytaylorism
 
-（English document is coming soon...）
 
 ## 预览
 
-* [我的博客]
-* [主题截图1](http://raytaylorlin-blog.qiniudn.com/image%2Fscreenshot%2Fscreenshot1.jpg)
-* [主题截图2](http://raytaylorlin-blog.qiniudn.com/image%2Fscreenshot%2Fscreenshot2.jpg)
-* [主题截图3](http://raytaylorlin-blog.qiniudn.com/image%2Fscreenshot%2Fscreenshot3.jpg)
-* [主题截图4](http://raytaylorlin-blog.qiniudn.com/image%2Fscreenshot%2Fscreenshot4.jpg)
+* [我的博客]    https://renjiabao.cn
+
+说明：
+
+在原主题根据自己喜好，进行了功能补充和修改；
+http://renjiabao.cn
 
 ## 安装
 
