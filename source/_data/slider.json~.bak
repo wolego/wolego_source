@@ -1,0 +1,13 @@
+[{
+    "image": "../img/index/1.jpg",
+    "align": "center",
+    "title": "",
+    "subtitle": "",
+	"link": "/"
+}, {
+    "image": "../img/index/2.jpg",
+    "align": "center",
+    "title": "",
+    "subtitle": "",
+	"link": null
+}]

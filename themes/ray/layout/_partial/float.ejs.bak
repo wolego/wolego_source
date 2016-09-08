@@ -1,0 +1,8 @@
+<div class="fixed-action-btn float-sitemap">
+    <a class="btn-return-top btn-floating waves-effect <%= theme.color.fab_2 %>" title="<%- __('returntop') %>">
+      <i class="fa fa-caret-square-o-up"></i>
+    </a>
+    
+     <a class="btn-return-top btn-floating waves-effect <%= theme.color.fab_2 %>" title="<%- __('returntop') %>"><i class="fa fa-arrow-circle-o-up">
+    
+  </div>

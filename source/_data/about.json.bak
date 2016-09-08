@@ -1,0 +1,32 @@
+{
+    "avatar": "../img/ablout/h.jpg",
+    "name": "wolego",
+    "tag": "超级奶爸/技术宅",
+    "desc": "生命在于折腾!",
+    "skills": {
+		"Javascript": 8,	
+		"Node.js": 6,
+		"Java": 6,
+		"Linux": 6,
+		"invisible-split-line-1": -1
+    },
+    "projects": [{
+		"name": "项目A",
+		"image": "../img/project/A.png",
+		"tags": ["2015年", "项目标签"],
+		"description": "项目A的简介",
+		"link_text": "网站链接",
+		"link": "#"
+	}, {
+		"name": "你的作品B",
+		"image": "../img/project/B.png",
+		"description": "作品B的简介",
+		"tags": ["Github", "设计"],
+		"link_text": "Github地址",
+		"link": "https://github.com/"
+	}],
+	"reward": [
+		"../img/about/wxsk.png",
+		"../img/about/zfbsk.png"
+	]
+}
